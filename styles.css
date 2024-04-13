@@ -1,0 +1,41 @@
+body{
+  
+}
+
+.heading{
+  color: red;
+  font-family: 'Raleway', sans-serif;
+  margin-left:10px;
+}
+
+#about{
+  background-color: orange;
+}
+
+
+.nav{
+  list-style-type: none;
+  background-color: #ebf5f4;
+  padding: 10px;
+  margin: 0px;
+  }
+  
+  a:link{
+  text-decoration: none; 
+  color:purple;
+  }
+  
+  a:visited{
+  color:orange;
+  }
+  
+  a:hover{
+  color: white;
+  }
+  
+  img{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  }
+  
